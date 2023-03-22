@@ -10,13 +10,13 @@ function App() {
     },
     {
       id: "jljkl;jkl;",
-      label: "Can i use React ona project?",
+      label: "Can i use Javacript ona project?",
       content:
         "You can use React on any project you want. You can use React on any project you want. You can use React on any project you want. ",
     },
     {
       id: "rueiwpquriep",
-      label: "Can i use React ona project?",
+      label: "Can i use Ruby ona project?",
       content:
         "You can use React on any project you want. You can use React on any project you want. You can use React on any project you want. ",
     },
